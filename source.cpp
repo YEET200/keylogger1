@@ -20,7 +20,7 @@
 
 #if FORMAT == 0
 const std::map<int, std::string> keyname{ 
-	{VK_BACK, "[BACKSPACE]" },
+	{VK_BACK, "[<--]" },
 	{VK_RETURN,	"\n" },
 	{VK_SPACE,	"_" },
 	{VK_TAB,	"[TAB]" },
